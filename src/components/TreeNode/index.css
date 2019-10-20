@@ -1,0 +1,30 @@
+.TreeNode-1 .Directory, .TreeNode-1 .File {
+	margin-left: 5px;
+}
+
+.TreeNode-2 .Directory, .TreeNode-2 .File {
+	margin-left: 20px;
+}
+
+.TreeNode-3 .Directory, .TreeNode-3 .File {
+	margin-left: 35px;
+}
+.TreeNode-4 .Directory, .TreeNode-4 .File {
+	margin-left: 50px;
+}
+
+.Directory{
+	font-size: 18px;
+    font-weight: 600;
+}
+
+.Directory:before {
+    content: '-';
+}
+
+.File{
+	font-size: 16px;
+    font-weight: 400;
+	cursor: pointer;
+	padding: 3px 0px;
+}

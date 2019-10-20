@@ -1,0 +1,9 @@
+.Info ul{
+	border-bottom: solid 1px #ccc;
+	padding: 10px 10px;
+}
+
+.Info ul li{
+	list-style-type: none;
+	margin-bottom: 3px;
+}
