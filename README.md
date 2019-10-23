@@ -9,7 +9,7 @@
 
 animals\
 &nbsp;&nbsp;frog\
-&nbsp;&nbsp;>&nbsp;&nbsp;-index.txt\
+&nbsp;&nbsp;&nbsp;&nbsp;-index.txt\
 &nbsp;&nbsp;giraffe\
-&nbsp;&nbsp;>&nbsp;&nbsp;-index.md\
+&nbsp;&nbsp;&nbsp;&nbsp;-index.md\
 -zebra.md	
